@@ -582,7 +582,7 @@ input::-ms-input-placeholder {
 }
 .single_home_slider{
     margin-top:70px;
-    background:url(../images/PRUEBACARRU.png) no-repeat center;
+    background:url(../fonts/PRUEBACARRU.png) no-repeat center;
     position: relative;
 }
 .main_home_slider .owl-controls{
